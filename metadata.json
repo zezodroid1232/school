@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Copy of Copy of Nizam - Student Management System",
+  "description": "A comprehensive platform for teachers and students featuring real-time chat, exam management, attendance tracking, and payment monitoring.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
